@@ -93,7 +93,7 @@ const Hero = () => {
         </h1>
         <p className='text-2xl text-center font-serif'>
           Our makeup products are designed to give you a natural, radiant glow. With a wide range of
-          shades and finishes to choose from, you are sure to find the perfect match for your skin tone
+          shades and finishes to choose from you are sure to find the perfect match for your skin tone
         </p>
         <div className='bg-[url("/images/jan.webp")] h-[700px] bg-no-repeat bg-center border-3 p-3 justify-center '></div>
         <h1 className='text-center bg-blue-300 text-3xl p-3 m-1 font-bold'>
@@ -101,7 +101,7 @@ const Hero = () => {
         </h1>
         <p className='text-2xl text-center font-serif'>
           Our makeup products are designed to give you a smooth, even finish. With a wide range of
-          shades and finishes to choose from, you're sure to find the perfect match for your skin tone
+          shades and finishes to choose from, you are sure to find the perfect match for your skin tone
         </p>
         <div className='bg-[url("/images/ise.webp")] h-96 w-100 bg-no-repeat bg-center border-3 p-3 justify-center cursor-pointer'></div>
          
