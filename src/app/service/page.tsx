@@ -16,7 +16,7 @@ const page = () => {
         Contact us at:00023333455
         </p>
         <p className='text-3xl font-serif text-center'>
-        Email us at:beautycare45@.com
+        Email us at:beautycare45.com
       </p>
       <Footer/>
     </div>

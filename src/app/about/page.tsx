@@ -29,7 +29,7 @@ const page = () => {
       <p>
         Our makeup products are designed to enhance your natural beauty, not hide it. With a wide range
         of shades and finishes to choose from, you can find the perfect match for your skin tone and
-        personal style. Whether you're looking for a natural everyday look or a bold, dramatic finish,
+        personal style. Whether you are looking for a natural everyday look or a bold, dramatic finish,
         our products are designed to help you achieve the look you want.
       </p>
       <div className='bg-[url("/images/photo.jpg")] h-[400px] bg-no-repeat bg-center px-16 border-3 p-3 justify-center'>
@@ -41,7 +41,7 @@ const page = () => {
       <p>
         Our makeup products are designed to enhance your natural beauty, not hide it. With a wide range
         of shades and finishes to choose from, you can find the perfect match for your skin tone and
-        personal style. Whether you're looking for a natural everyday look or a bold, dramatic finish,
+        personal style. Whether you are looking for a natural everyday look or a bold, dramatic finish,
         our products are designed to help you achieve the look you want.
       </p>
     

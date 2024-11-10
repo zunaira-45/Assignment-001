@@ -5,17 +5,22 @@ const Hero = () => {
     <div>
       <h1>
         <h2 className="text-primary text-3xl bg-amber-400 gap-2 font-serif text-center font-bold">WELCOME TO BEAUTY AND CARE</h2>
-          <p className="text-3xl text-left text-top font-serif">
-            <div className='bg-[url("/images/heme.jpg")] h-96 w-100 bg-no-repeat bg-right-top border-3 p-3 justify-center bg-center'> 
-
-            <p>Beauty and
+            <div className='bg-[url("/images/pics.webp")] h-100 w-100 bg-no-repeat bg-right-top border-3 p-3 justify-center bg-center'> 
+            <p className='text-center text-1xl bg-rose-400'>Beauty and
           Care is a beauty and wellness</p>
-          <p> company that offers range of products and</p> services to help you look
-             and feel your best.<p>Our mission is to provide quality products</p> and exceptional customer
-              service to our
-            <p>customers.</p>
-            <div className='bg-[url("/images/arsh.jpg")] h-96 w-100 bg-no-repeat bg-left-top border-3 p-3 justify-center bg-center'>
-            </div></div></p>
+          <p className='text-left'> company that offers range of products and
+              services to help you look
+             and feel your best.</p>
+             <p className='text-left'>Our mission is to provide quality products
+              service to our customers</p>
+
+              <div className='font-sans bg-center'>
+                <button type='submit' className='bg-blue-500 text-white p-1 rounded bg-center'>
+                  Learn More
+                </button>
+                </div>
+              </div>
+
          
          <div>
         <h1 className='text-center text-2xl font-serif font-bold bg-blue-300 p-2'>
@@ -88,9 +93,17 @@ const Hero = () => {
         </h1>
         <p className='text-2xl text-center font-serif'>
           Our makeup products are designed to give you a natural, radiant glow. With a wide range of
-          shades and finishes to choose from, you're sure to find the perfect match for your skin tone
+          shades and finishes to choose from, you are sure to find the perfect match for your skin tone
         </p>
         <div className='bg-[url("/images/jan.webp")] h-[700px] bg-no-repeat bg-center border-3 p-3 justify-center '></div>
+        <h1 className='text-center bg-blue-300 text-3xl p-3 m-1 font-bold'>
+         MAKEUP THAT SMOOTH YOUR SKIN
+        </h1>
+        <p className='text-2xl text-center font-serif'>
+          Our makeup products are designed to give you a smooth, even finish. With a wide range of
+          shades and finishes to choose from, you're sure to find the perfect match for your skin tone
+        </p>
+        <div className='bg-[url("/images/ise.webp")] h-96 w-100 bg-no-repeat bg-center border-3 p-3 justify-center cursor-pointer'></div>
          
          </h1>
         </div>
